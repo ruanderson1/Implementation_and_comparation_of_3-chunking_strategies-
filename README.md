@@ -1,5 +1,5 @@
 # Education RAG
-
+(Study case: in progress)
 A aplicação descobre PDFs recursivamente em `data/documents` (ou em `DOCUMENTS_PATH`),
 carrega cada página e mostra um resumo. Páginas sem texto podem ser digitalizadas e exigirão
 OCR, que ainda não é suportado. Chunking, embeddings e perguntas ainda não foram implementados.
